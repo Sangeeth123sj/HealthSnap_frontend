@@ -79,7 +79,7 @@ export default {
                         
           axios.post(
                   // "http://127.0.0.1:8000/summarize/",
-                  "https://medbriefbackend-production.up.railway.app/summarize/" ,
+                  "https://healthsnapbackend-production.up.railway.app/summarize/" ,
                   
                   {
                     text: this.text,

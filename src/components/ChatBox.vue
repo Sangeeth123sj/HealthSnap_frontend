@@ -94,7 +94,7 @@ export default {
                                        axios.post(
                  
                   // "http://127.0.0.1:8000/q_and_a/" ,
-                                            "https://medbriefbackend-production.up.railway.app/q_and_a/",
+                                            "https://healthsnapbackend-production.up.railway.app/q_and_a/",
                                       //       + this.report+`\nQuestion:`+this.question,
                   {
                     text: this.report+`\nQuestion:`+this.question,
