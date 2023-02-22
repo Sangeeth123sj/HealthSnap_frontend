@@ -160,6 +160,7 @@ export default {
   border: 1px solid black;
   position: relative;
   border-radius:5px;
+  background-color: rgb(26, 25, 25);
   /* background-color: white; */
 }
 
@@ -192,7 +193,7 @@ export default {
 
 .input-field {
        /*  */
-  background-color: #144272;
+  background-color: rgb(26, 25, 25);
   flex-grow: 1;
   padding: 10px;
   border: 2px;
@@ -200,6 +201,7 @@ export default {
   border-radius: 10px;
   margin-right: 10px;
   outline: 3px solid black;
+  color: white;
 }
 
 .send-btn {

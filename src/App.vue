@@ -1,7 +1,7 @@
 
 <template>
 <div>
-<h1>MedBrief  <img src="/src/assets/logo.png" class="align-logo" width="30" height="30" /></h1>
+<h1>HealthSnap  <img src="/src/assets/logo.png" class="align-logo" width="30" height="30" /></h1>
 </div>
   <div class="container">
     <div class="row">

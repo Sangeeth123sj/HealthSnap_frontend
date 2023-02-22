@@ -8,7 +8,7 @@
           </div>
       <div v-else>
         <strong>SUMMARY</strong>
-
+        <br/><br/>
       </div>
       <textarea
         class="black-border"
@@ -147,6 +147,7 @@ export default {
 .black-border {
     border: 3px solid black;
     border-radius: 6px;
+    background-color: rgb(26, 25, 25);
 }
 textarea{
     border:black;
